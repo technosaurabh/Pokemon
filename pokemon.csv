@@ -799,4 +799,4 @@ abilities,against_bug,against_dark,against_dragon,against_electric,against_fairy
 ['Beast Boost'],1,1,0.5,0.5,0.5,2,4,1,1,0.25,1,1,0.5,0,0.5,0.5,0.5,0.5,181,30720,0,570,255,Drawn Sword Pokémon,131,1250000,0.3,59,Kamiturugiカミツルギ,Kartana,,798,59,31,109,grass,steel,0.1,7,1
 ['Beast Boost'],2,0.5,2,0.5,4,2,0.5,1,0.5,0.5,1,2,1,1,0,1,1,0.5,101,30720,0,570,15,Junkivore Pokémon,53,1250000,5.5,223,Akuzikingアクジキング,Guzzlord,,799,97,53,43,dark,dragon,888,7,1
 ['Prism Armor'],2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,107,30720,0,600,3,Prism Pokémon,101,1250000,2.4,97,Necrozmaネクロズマ,Necrozma,,800,127,89,79,psychic,,230,7,1
-['Soul-Heart'],0.25,0.5,0,1,0.5,1,2,0.5,1,0.5,2,0.5,0.5,0,0.5,0.5,1,1,95,30720,0,600,3,Artificial Pokémon,115,1250000,1,80,Magearnaマギアナ,Magearna,,801,130,115,65,steel,fairy,80.5,7,1
+['Soul-Heart'],0.25,0.5,0,1,0.5,1,2,0.5,1,0.5,2,0.5,0.5,0,0.5,0.5,1,1,95,30720,0,600,3,Artificial Pokémon,115,1250000,1,80,Magearnaマギアナ,Magearna,,801,130,115,65,steel,fairy,80.5,7,2
